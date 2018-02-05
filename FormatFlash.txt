@@ -1,0 +1,6 @@
+1. Opem CMD admin
+2. Diskpart
+3. List disk
+4. Select disk n
+5. Clean
+6. Create partition primary
